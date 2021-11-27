@@ -3,7 +3,7 @@ title: thejourneyof
 tagline: me
 url: https://mringive.github.io/thejourneyof-prod
 paginate: 1
-baseurl: "thejourneyof-prod"
+baseurl: ""
 permalink: /:title/
 
 # Gems
