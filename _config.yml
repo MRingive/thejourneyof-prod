@@ -28,8 +28,8 @@ sass:
 
 # Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+# Google Analytics
+analytics_gtag: "G-DDP7YHE8ES"
 
 # Specify the author for blog posts
 author:
