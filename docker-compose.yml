@@ -2,8 +2,8 @@ version: '3.3'
 
 services:
   jekyll:
-    image: jekyll/jekyll:4.2.0
-    command: jekyll serve --livereload --force_polling --config  _config.yml,_config.docker.yml
+    build: .
+    command: jekyll serve --livereload --force_polling --future --config  _config.yml,_config.docker.yml
     ports:
       - 4000:4000
       - 35729:35729
