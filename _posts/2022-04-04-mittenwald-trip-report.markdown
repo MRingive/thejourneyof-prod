@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trip Report: 14 Days Alone in the Same Airbnb"
-date:   2021-12-22 06:00:00 +0200
+date:   2022-04-04 06:00:00 +0200
 category: trip-report
 ---
 
