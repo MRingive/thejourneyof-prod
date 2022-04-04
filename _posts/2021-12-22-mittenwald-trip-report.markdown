@@ -5,11 +5,12 @@ date:   2021-12-22 06:00:00 +0200
 category: trip-report
 ---
 
-Greetings fellow traveler. Today I want to share with you a travel story. Not an epic adventure or a life-changing cross-continent tale of wonders. Nope. This is just a simple story about a simple travel.
+This is a travel story. A trip report. Not of an epic adventure or a life-changing cross-continent tale of wonders. Nope. This is just a simple story about a simple travel.
 
 Why this story? Because it offers a different perspective. Because it asked me to slow down and look inwards. And sometimes, that can make all the difference.
 
 <!--more-->
+
 {% comment %}
 {% picture /assets/images/trip-report/mittenwald/hiking.jpg class="full-width" --alt Hiking in the mountains %}
 {% endcomment %}
