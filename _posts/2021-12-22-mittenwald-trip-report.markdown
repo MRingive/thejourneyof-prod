@@ -60,13 +60,7 @@ The easy access to hiking routes was great too. Most days I hiked straight from 
 
 I had picked this place because I wanted to hike and I was not let down.
 
-I went on three full day hikes:
-
-AllTrails - Strava - Video
-
-AllTrails - Strava - Video
-
-AllTrails - Strava - Video
+I went on three beautiful full-day hikes.
 
 The remaining days I went on smaller hikes/walks/runs. The nearby area had plenty to offer and I only saw a small part of it---despite being there for 14 days.
 
