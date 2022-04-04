@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trip Report: 14 Days Alone in the Same Airbnb"
+title:  "Trip Report: 14 Days Alone in an Airbnb"
 date:   2022-04-04 06:00:00 +0200
 category: trip-report
 ---
@@ -79,7 +79,7 @@ On rest days I read a lot. From the comfort of my rental apartment. The neighbou
 
 I also wrote [a letter][think-week-2021] with things I want to focus on in life right now.
 
-I experienced a great freedom and calm on these rest days. With nothing planned I could just walk out the door and do whatever I wanted. Mostly what I wanted was a short hike past the waterfall to a nearby mountain lake where I could sit and take it all in. 
+I experienced a great freedom and calm on these rest days. With nothing planned I could just walk out the door and do whatever I wanted. Mostly what I wanted was a short hike past a waterfall to a nearby mountain lake where I could sit and take it all in. 
 
 [think-week-2021]: {% post_url 2021-12-01-think-week-2021 %}
 
@@ -89,7 +89,7 @@ I experienced a great freedom and calm on these rest days. With nothing planned 
 
 I had booked the same small Airbnb for 14 days. And I'm glad I did. I had considered staying more open and only booking the first week or so. But because I had locked myself for the entire stay I didn't have to think about accommodation. And I didn't have to spend a day moving to a new location.
 
-Instead I was calm knowing that I had to stay for two weeks. And I think there is something to be said for that. Going many places and seeing lots of things is great. But it is a different experience. Here I had time to slow down and enjoy that.
+Instead I was calm knowing that I had to stay for two weeks. And I think there is something to be said for that. Going places and seeing lots of things is great. But it is a different experience. Here I had time to slow down.
 
 ## The weather
 
@@ -104,7 +104,7 @@ I had seen some comments online noting that it would be too late in Fall to go h
 
 ## Little planning
 
-Mittenwald looked like a cozy town. And the surrounding area looked like a nice hiking area in Fall. That was more or less the planning that went into my trip and all I knew before I arrived.  And I think that was good.
+Mittenwald looked like a cozy town. And the surrounding area looked like a nice hiking area in Fall. That was more or less the planning that went into my trip and all I knew before I arrived.  And I think that was just fine.
 
 I didn't look up tourist attractions nearby or plan out a ton of stuff to do and see. And so I just went with what was outside my door. That way I reduced my FOMO and instead enjoyed slowing down. 
 
