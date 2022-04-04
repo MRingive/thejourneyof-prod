@@ -15,6 +15,7 @@ body {
   background-color: var(--body-bg);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
   
   /*
   @media (min-width: 38em) {
