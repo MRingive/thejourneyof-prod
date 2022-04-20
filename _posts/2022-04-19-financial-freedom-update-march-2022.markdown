@@ -50,7 +50,7 @@ Why have a safety margin? Because _life_. My recent month is a good example.
 
 In relation to my journey this is more or less what I am building up right now. My safety margin. Instead of spending money as it comes in I save some of it. And I also work on lowering my living costs. Another way of increasing my safety margin. And if things go really bad my country provides a safety margin too.
 
-But at some point I have to find my acceptable risk level. If I don't I'll just end up working forever, building up a bigger and bigger margin. And for what? I'll never be certain and so if that I what I try to chase I'll never get there.
+But at some point I have to find my acceptable level of risk. If I don't I'll just end up working forever, building up a bigger and bigger margin. And for what? I'll never be certain and so if that I what I try to chase I'll never get there.
 
 This is a topic that I have debated internally for a while and it is causing me to reflect on some beliefs I may no longer agree with. In many ways I may already have enough safety margin to take more freedoms. But fear is holding me back.
 
