@@ -26,10 +26,12 @@ title: Home
 
 🤑 <a href="{{ site.url }}{% link financial-freedom-updates/index.md %}">Financial Freedom</a>
 
+🎥 [Video Series](https://www.youtube.com/channel/UCrBFVisOKEWPqgsKzNxDAqw)
+
 <br />
 
 #### Contact/Follow
 
 👋 [Twitter](https://twitter.com/mat_tjo)
 
-
+📽 [YouTube](https://www.youtube.com/channel/UCrBFVisOKEWPqgsKzNxDAqw)
