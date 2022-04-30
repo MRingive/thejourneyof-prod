@@ -2,7 +2,6 @@
 title: thejourneyof
 tagline: me
 url: https://thejourneyof.me
-paginate: 1
 baseurl: ""
 permalink: /:title/
 
