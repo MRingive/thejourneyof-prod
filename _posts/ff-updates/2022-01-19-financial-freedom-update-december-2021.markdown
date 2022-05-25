@@ -8,8 +8,8 @@ hidden: true
 
 In [my last update][november-ff-update-december] I braced myself for one of the more expensive months---December. But I'm ~~pleasantly~~ surprised to find that it is not that bad (see [Friends and Family](#friends-and-family) below for more about my conflicted feelings).
 
-[november-ff-update-december]: {% post_url 2021-12-07-financial-freedom-update-november-2021 %}#december
-[november-ff-update]: {% post_url 2021-12-07-financial-freedom-update-november-2021 %}
+[november-ff-update-december]: {% post_url ff-updates/2021-12-07-financial-freedom-update-november-2021 %}#december
+[november-ff-update]: {% post_url ff-updates/2021-12-07-financial-freedom-update-november-2021 %}
 
 <!--more-->
 
