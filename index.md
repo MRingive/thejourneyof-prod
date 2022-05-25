@@ -3,7 +3,7 @@ layout: default-no-footer
 title: Home
 ---
 
-#### Blog
+#### Posts
 
 <div>
 {% for post in site.posts %}
