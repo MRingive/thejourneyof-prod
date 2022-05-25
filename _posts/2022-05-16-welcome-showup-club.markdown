@@ -58,7 +58,7 @@ It works like this: when you create a journey you deposit funds to be locked up 
 
 ## Hello Web3
 
-The Show Up Club is built on the blockchain. It is a [web3](https://en.wikipedia.org/wiki/Web3) application. This means the logic controlling the club lives on a smart contract that can’t be modified or controlled by anyone — not even me. Once it is on the blockchain, it is immutable. The code can’t be changed or removed.
+The Show Up Club is built on the blockchain. It is a [web3](https://en.wikipedia.org/wiki/Web3) application. This means the logic controlling the club lives on a smart contract that can’t be modified or controlled by anyone — not even me. Once it is on the blockchain it is immutable. The code can’t be changed or removed.
 
 ### Why use blockchain?
 
@@ -68,7 +68,7 @@ First, with web3 we don’t store any user information in a database. You don’
 
 The second motivation is the deposit accountability functionality described earlier. You deposit funds and expect the get it back if you reach your goal. The logic computing that functionality is [open source](https://github.com/MRingive/showup-contract) and [on the blockchain](https://polygonscan.com/address/0x4b78c01e3fd04733943aab81bee86a09e78aed8f#code). This means it is possible to audit and verify the functionality. If you trust the code you can deposit your funds knowing that the blockchain execute without anyone being able to interfere. No banks, credit cards, databases, or backend servers involved. “Just” cryptography, code, and the blockchain.
 
-Of course this still leaves a lot of questions unanswered. What if you do not know how to read the code? And even if you do, it is hard to verify the code is sound. Bigger web3 projects usually get their code audited by trusted sources. But even this has issues as auditing is difficult. Ultimately web3 projects may have to rely on their reputation. Much like companies do today (except in web3 the source code is public and can be verified). If enough people have looked at the code and trust it we can use that as a heuristic that the code is probably correct.
+Of course this still leaves a lot of questions unanswered. What if you do not know how to read the code? And even if you do, it is hard to verify the code is sound. Bigger web3 projects usually get their code audited by trusted sources. But even this has issues as auditing is difficult. Ultimately web3 projects may have to rely on their reputation. Much like companies do today (except in web3 the source code is public and can be verified). If enough people have looked at the code and trust it we can use that as a heuristic to determine the code is probably correct.
 
 Finally, the third web3 motivation is curiosity. I'm curious about web3 and what the future will bring. This little project is a teaser to some of the things we can do in this new space.
 
