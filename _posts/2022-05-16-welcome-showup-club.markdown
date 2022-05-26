@@ -24,7 +24,8 @@ Unfortunately showing up is much harder than it sounds. Which is why we need all
 
 ## How to Show Up every day
 
-The [Show Up Club][show-up-club] is loosely based on two proven tools: goals and accountability.
+The [Show Up Club][show-up-club] is based on two tools: goals and accountability.
+These two tools have been around for a long time and have proven themselves many times over.
 
 ### (S.M.A.R.T) Goals
 
