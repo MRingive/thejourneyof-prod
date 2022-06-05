@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How Society Controls Your Life"
-date: 2022-06-01 06:00:00 +2000
+title: "Reclaim Your Life"
+date: 2022-06-05 06:00:00 +2000
 ---
 
 > “... everyone wants you to forget you’re gonna die. Because if they convince you you’re not going to die you waste your time doing what they want you to do... - [Mike Posner](https://www.youtube.com/watch?v=p1zrweVN4l4)
