@@ -34,4 +34,4 @@ You’ll quickly end up doing what other people and society wants you to do. And
 
 The exploitation of option one doesn’t have to be born out of evil. It can just as easily be caused by good intentions. It almost always is. You are invited to a birthday party. A corporate retreat. An opportunity too good to pass. Well-intentioned opportunities are much more likely to take up your time.
 
-So if your goal is to spend time things you value, *"Say yes to most things and attempt to do it all"* is clearly flawed and does not work. Yet this is what most of us do all the time. Myself included.
+So if your goal is to spend time on things you value, *"Say yes to most things and attempt to do it all"* is clearly flawed and does not work. Yet this is what most of us do all the time. Myself included.
