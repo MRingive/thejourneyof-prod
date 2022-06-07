@@ -43,7 +43,7 @@ My last trip was [a two week vacation to Germany][trip-report]. A rather low-key
 
 Staying home is cheaper. Or going somewhere close to home is also an option that can be much more affordable. But the reason I save money is so I can spend it on *something*. And one of those things are experiences.
 
-So there is a balance here. I definitely do not like the idea of going cheap and doing something that does not excite me. I think this relates to my favorite message from the [Can I retire young?](http://earlyretirementextreme.com/can-i-retire-young.html) post:
+So there is a balance here. I definitely do not like the idea of going cheap and doing something that does not excite me. I think this relates to my favorite message from [Can I retire young?](http://earlyretirementextreme.com/can-i-retire-young.html):
 
 > Instead of downgrading, choose to live differently.
 
